@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![]([https://imgur.com/OvFXIZJ.gif](https://github.com/StanleyDelva/WEB103-Prework-Creatorverse/blob/main/demo.gif)
+![](https://github.com/StanleyDelva/WEB103-Prework-Creatorverse/blob/main/demo.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
