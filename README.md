@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/4Aan8Lp)' title='Creatorverse Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/OvFXIZJ](https://imgur.com/OvFXIZJ)' title='Creatorverse Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
