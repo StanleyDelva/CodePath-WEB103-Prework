@@ -5,7 +5,7 @@ Submitted by: ** Stanley Delva**
 
 About this web app: ** A front end app supporting CRUD operations made with ReactJS to list my favorite creators** 
 
-Time spent: **👉🏿 6** hours
+Time spent: **👉🏿 8** hours
 
 ## Required Features
 
