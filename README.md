@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# WEB103 Prework - **Creatorverse**
+# WEB103 Prework - Creatorverse
 
 Submitted by: ** Stanley Delva**
 
