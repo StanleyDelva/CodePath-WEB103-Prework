@@ -1,0 +1,64 @@
+.card-container {
+    width: 300px;
+    overflow: hidden;
+    transition: 0.3s;
+
+}
+
+.card-container:hover {
+    transform: scale(1.1);
+}
+.image-container img{
+    overflow: hidden;
+    height: 200px;
+
+}
+
+.card-content {
+    margin: 1rem;
+    margin-top: 0.5rem;
+}
+
+h3,p {
+    /* Resetting default value */
+
+    margin: 0;
+    padding: 0;
+}
+
+.card-title {
+    margin-bottom: 0.5rem;
+}
+
+.icon-container{
+    justify-content: space-between;
+}
+
+.icon-container a{
+    justify-content: space-around;
+    margin-right: auto;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btns a {
+    margin: auto;
+}
+
+button {
+    padding: 0.5rem;
+    border: none;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+}
+
+.btn button:hover {
+    background: rgba(27, 156, 252, 0.1);
+    transform: scale(1.1);
+}
+
