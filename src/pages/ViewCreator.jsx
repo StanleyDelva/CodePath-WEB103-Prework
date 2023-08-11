@@ -27,7 +27,7 @@ function ViewCreator() {
       const fetchCreator = async () => {
         try {
           const response = await supabase.from('creators').select().eq('id',id)
-          setCreator(response.data[0]);
+          setCreatorData(response.data[0]);
         } catch (error) {
           console.error(error);
         }
