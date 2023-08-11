@@ -6,7 +6,7 @@ import './ViewCreator.css';
 
 function ViewCreator() {
     const { id } = useParams();
-    const [creator, setCreator] = useState({ Name: "", Image: "", Description: "", yt_handle: "", ig_handle: "", twitter_handle: "" });
+    const [creator, setCreatorData] = useState({ Name: "", Image: "", Description: "", yt_handle: "", ig_handle: "", twitter_handle: "" });
     const navigate = useNavigate();
 
     useEffect(() => {

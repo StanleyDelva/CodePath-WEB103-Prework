@@ -28,7 +28,7 @@ function EditCreator() {
     };
 
     const deleteCreator = async () => {
-        setCreatorData({ Name: "", Urls: [], Image: "", Description: "" });
+        setCreatorData({ Name: "", yt_handle: "", ig_handle: "", twitter_handle: "", Image: "", Description: "" });
 
         const { error } = await supabase
         .from('creators')
